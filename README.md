@@ -37,11 +37,7 @@ Open a terminal window and navigate to the official Camunda RPA Runtime folder.
 
 Execute the setup script by running the following command in the terminal:
 
-```
-bash
-
-
-Copy code
+```bash
 ./setup.sh
 ```
 
@@ -54,11 +50,7 @@ During the execution of the script, you will be prompted to complete the `dev.en
 
 Once the setup is complete and the `dev.env` file is configured correctly, you can start the RPA runtime by executing:
 
-```
-bash
-
-
-Copy code
+```bash
 ./start.sh
 ```
 

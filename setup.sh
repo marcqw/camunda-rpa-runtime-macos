@@ -7,10 +7,10 @@ if [[ "$(uname)" != "Darwin" ]]; then
 fi
 
 # Minimum required versions
-MIN_PYTHON_VERSION="3.7"
-MIN_PYTHON3_VERSION="3.9"
-MIN_HOMEBREW_VERSION="3.0.0"
-MIN_RUST_VERSION="1.65.0"
+MIN_PYTHON_VERSION="3.13"
+MIN_PYTHON3_VERSION="3.13"
+MIN_HOMEBREW_VERSION="4.4"
+MIN_RUST_VERSION="1.84"
 MIN_NODEJS_VERSION="16.0.0"
 
 echo "✨ Checking installed versions..."
